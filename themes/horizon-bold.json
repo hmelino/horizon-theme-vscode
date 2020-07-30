@@ -54,7 +54,7 @@
       "tab.inactiveBackground":"#1C1E26",
       "editor.background":"#1C1E26",
       "editorLineNumber.foreground":"#D5D8DA1A",
-      "editorLineNumber.activeForeground":"#D5D8DA80",
+      "editorLineNumber.activeForeground":"#3bebff",
       "editorCursor.background":"#1C1E26",
       "editorCursor.foreground":"#E95378",
       "editor.selectionBackground":"#2E303EB3",
@@ -139,10 +139,10 @@
    },
    "tokenColors":[
       {
-         "name":"Comments",
+         "name":"Comments fixed",
          "scope":"comment",
          "settings":{
-            "foreground":"#BBBBBB4D",
+            "foreground":"#FAB795E6",
             "fontStyle":"italic"
          }
       },
